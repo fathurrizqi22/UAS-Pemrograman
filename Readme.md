@@ -1,3 +1,7 @@
+
+Nama : Muhammad Fathur Rizqi
+NIM  : 19.11.2757
+
 # Promos
 adalah sebuah aplikasi simulasi pembelian yang menggunakan perhitungan dengan  voucher diskon dan beberapa fitur lainnya untuk user.
 
